@@ -1,0 +1,22 @@
+.temple{
+    position: absolute;
+    height: 300px;
+    width: 400px;
+    top: 0%;
+    left:0%;
+}
+body{
+    background-image: url("https://wallpapers.com/images/hd/white-color-background-ghw6e685ri75chj4.jpg");
+}
+h2{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 800;
+    margin-top: 40px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+    margin-top: 40px;
+}
